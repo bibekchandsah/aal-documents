@@ -5,7 +5,7 @@ function validate(){
         // window.open("https://www.instagram.com/bibeksha1432/");
         // return false;
         // alert("login succesfully");
-        window.open("/cover/cover.html");
+        window.open("cover/cover.html");
         // return false;
     }else{
         alert("login failed");
